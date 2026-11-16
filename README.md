@@ -4,4 +4,4 @@ Instructions:
 2. Run the students.sql file to create the table and populate it
 3. Run student.java
 
-Video URL: 
+Video URL: https://youtu.be/yTDpVGLQRng
